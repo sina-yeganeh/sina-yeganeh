@@ -2,7 +2,7 @@
 <p align="center"><samp> Javasciprt Lover 💙 And 16 Years Old Student 📘 From Iran 🇮🇷 </samp></p>
 <br>
 
-<p align="center"><samp><strong>Programming</strong></samp></p>
+<p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" />
@@ -13,7 +13,7 @@
 
 <hr>
 
-<p align="center"><samp><strong>Tool</strong></samp></p>
+<p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
@@ -26,7 +26,7 @@
 
 <hr>
 
-<p align="center"><samp><strong>OS</strong></samp></p>
+<p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Deepin-blue?style=for-the-badge&logo=deepin" alt="Deepin" />
   <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
