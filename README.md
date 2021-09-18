@@ -50,6 +50,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sina-yeganeh&theme=react&hide_border=true" alt="Other Github Status" />
 </p>
 
+<hr>
+
+<p><samp><strong>Contact Me</strong></samp></p>
+<p> 
+  <a href=""><img src="https://img.shields.io/badge/-Sina 7161-gray?style=for-the-badge&logo=discord" alt="Discord" /></a>
+  <a href="https://sinayeganeh.dev@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://stackoverflow.com/users/16333198/sina-yeganeh"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stackoverflow" /></a>
+  <a href="https://www.linkedin.com/in/sina-yeganeh-982a48210/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
+</p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
