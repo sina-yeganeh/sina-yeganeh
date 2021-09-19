@@ -35,7 +35,7 @@
 
 <hr>
 
-<p align="center"><samp><strong>Github Status</strong></samp></p>
+<p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sina-yeganeh&show_icons=true&hide_border=true&count_private=true&theme=react" alt="Github Status" />
 </p>
