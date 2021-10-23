@@ -5,6 +5,7 @@
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=blue" alt="Mysql" />
   <img src="https://img.shields.io/badge/-Typesciprt-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
@@ -16,11 +17,11 @@
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
-  <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
+  <img src="https://img.shields.io/badge/-Express.js-white?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
   <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
-  <img src="https://img.shields.io/badge/-Electron-gray?style=for-the-badge&logo=electron&logoColor=blue" alt="Markdown" />
-  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Markdown" />
+  <img src="https://img.shields.io/badge/-Electron.js-gray?style=for-the-badge&logo=electron" alt="Electron" />
+  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
   <img src="https://img.shields.io/badge/-Atom-yellowgreen?style=for-the-badge&logo=atom" alt="Atom" />
 </p>
 
