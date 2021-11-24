@@ -1,10 +1,10 @@
 <p align="center"><h1 align="center"><samp> I'm Sina yeganeh </samp></h1></p>
-<p align="center"><samp> Javasciprt Lover 💙 And 16 Years Old Student 📘 From Iran 🇮🇷 </samp></p>
+<p align="center"><samp> JavaScript Lover 💙 And 16 Years Old Student 📘 From Iran 🇮🇷 </samp></p>
 <br>
 
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=blue" alt="Mysql" />
