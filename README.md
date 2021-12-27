@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=blue" alt="Mysql" />
-  <img src="https://img.shields.io/badge/-Typesciprt-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-CoffeeScript-brown?style=for-the-badge&logo=coffeescript" alt="CoffeeScript" />
   <img src="https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go" alt="Go" />
 </p>
 
