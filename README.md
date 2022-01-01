@@ -27,6 +27,12 @@
 
 <hr>
 
+<p align="center"><samp><strong>Interested To Learn</strong></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby" alt="Ruby" />
+  <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript" alt="typescript" />
+<hr>
+
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Deepin-blue?style=for-the-badge&logo=deepin" alt="Deepin" />
