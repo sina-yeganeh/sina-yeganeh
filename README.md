@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/-Deepin-blue?style=for-the-badge&logo=deepin" alt="Deepin" />
   <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Kali-black?style=for-the-badge&logo=kali-linux" alt="Kali" />
 </p>
 
 <hr>
