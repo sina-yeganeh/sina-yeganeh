@@ -1,5 +1,5 @@
 <p align="center"><h1 align="center"><samp> I'm Sina yeganeh </samp></h1></p>
-<p align="center"><samp> Javasciprt Lover 💙 And 17 Years Old Student 📘 From Iran 🇮🇷 </samp></p>
+<p align="center"><samp> Javasciprt Lover 💙 And 16 Years Old Student 📘 From Iran 🇮🇷 </samp></p>
 <br>
 
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
