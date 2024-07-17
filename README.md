@@ -1,7 +1,11 @@
 <p align="center">
   <img src="./img/sina-yeganeh.png">
   <br>
+<<<<<<< HEAD
   <i>Learning Cyber Sec And Game Dev | Love Books | University Student</i>
+=======
+  <i>Learning Cyber Security | Love Books | University Student</i>
+>>>>>>> 696ecf80ebf5ff8767bc610367ac2b36fde8ad5f
 </p>
 
 ### A Little Bit About Me!
