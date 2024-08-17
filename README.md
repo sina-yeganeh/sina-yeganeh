@@ -1,11 +1,11 @@
 <p align="center">
   <img src="./img/sina-yeganeh.png">
   <br>
-  <i>Learning Cyber Sec And Game Dev | Love Books | University Student</i>
+  <i>Learning is my hobby | Love Books | University Student</i>
 </p>
 
 ### A Little Bit About Me!
-Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm 18 y.o student! I'm interested in cyber security and game development and I used to be a web developer, but I quit it!
+Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm 18 y.o student! I learn coding stuff for my future job. I love to work as programmer!
 
 <p align="center">
   <i><b>Free Palestine! :ps:</b></i>
