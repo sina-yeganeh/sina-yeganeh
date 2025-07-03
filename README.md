@@ -5,7 +5,7 @@
 </p>
 
 ### A Little Bit About Me!
-Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm 18 y.o student! I learn coding stuff for my future job. I love to work as programmer!
+Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm 19 y.o university student! I can learn everything in IT world! I meant not everything :/ but like to learm them.
 
 <p align="center">
   <i><b>Free Palestine! 🇵🇸</b></i>
