@@ -4,14 +4,12 @@
   <i>Always Learning | Love Codes | University Student</i>
 </p>
 
-### A Little Bit About Me!
-Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm Sina! I always try to learn new tech stuff especially in cybersecurity.
-
 <p align="center">
   <i><b>Free Palestine! 🇵🇸</b></i>
 </p>
 
-*Check out my TryHackMe badge! I just start hacking, wish me luck :)*
+### A Little Bit About Me!
+Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15" width="15"> I'm Sina! I always try to learn new tech stuff especially in cybersecurity. *Check out my TryHackMe badge! I just start hacking, wish me luck :)*
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/toosina.png" alt="Your Image Badge" />
 </p>
