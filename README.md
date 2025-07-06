@@ -5,10 +5,15 @@
 </p>
 
 ### A Little Bit About Me!
-Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm 19 y.o university student! I can learn everything in IT world! I meant not everything :/ but like to learm them.
+Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm Sina! I always try to learn new tech stuff especially in cybersecurity.
 
 <p align="center">
   <i><b>Free Palestine! 🇵🇸</b></i>
+</p>
+
+*Check out my TryHackMe badge! I just start hacking, wish me luck :)*
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/toosina.png" alt="Your Image Badge" />
 </p>
 
 #### Programming Langs & Techs
@@ -20,12 +25,9 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 
 <hr>
